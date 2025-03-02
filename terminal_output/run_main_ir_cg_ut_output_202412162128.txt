@@ -1,0 +1,51 @@
+Total number of tasks: 3
+Running tasks with 1 workers.
+Initializing task: european_football_2 1099
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+[1A[2K[1A
+[=================================>                                                                   ] 1/3
+Initializing task: card_games 371
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (card_games, 371) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 708776 (char 708775)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+CRITICAL: Error comparing SQL outcomes: no such column: language
+ERROR: Error in compare_sqls: no such column: language
+CRITICAL: Error comparing SQL outcomes: no such column: language
+ERROR: Error in compare_sqls: no such column: language
+CRITICAL: Error comparing SQL outcomes: no such column: language
+ERROR: Error in compare_sqls: no such column: language
+[1A[2K[1A
+[==================================================================>                                  ] 2/3
+Initializing task: toxicology 226
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+[1A[2K[1A
+[====================================================================================================>] 3/3

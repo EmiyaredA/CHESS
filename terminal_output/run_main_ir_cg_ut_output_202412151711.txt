@@ -1,0 +1,128 @@
+Total number of tasks: 9
+Running tasks with 1 workers.
+Initializing task: california_schools 18
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+WARNING: OutputParserException: Your answer is not in the correct format. Please make sure to include your answer in the format <Answer>...</Answer>
+Agent unit_tester response: DONE
+[1A[2K[1A
+[===========>                                                                                         ] 1/9
+Initializing task: card_games 441
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+[1A[2K[1A
+[======================>                                                                              ] 2/9
+Initializing task: toxicology 301
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+[1A[2K[1A
+[=================================>                                                                   ] 3/9
+Initializing task: formula_1 896
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+[1A[2K[1A
+[============================================>                                                        ] 4/9
+Initializing task: formula_1 962
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+CRITICAL: Error comparing SQL outcomes: no such function: year
+ERROR: Error in compare_sqls: no such function: year
+[1A[2K[1A
+[=======================================================>                                             ] 5/9
+Initializing task: student_club 1359
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+[1A[2K[1A
+[==================================================================>                                  ] 6/9
+Initializing task: formula_1 958
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+[1A[2K[1A
+[=============================================================================>                       ] 7/9
+Initializing task: financial 182
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+CRITICAL: Error comparing SQL outcomes: no such column: C.account_id
+ERROR: Error in compare_sqls: no such column: C.account_id
+[1A[2K[1A
+[========================================================================================>            ] 8/9
+Initializing task: formula_1 940
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+[1A[2K[1A
+[====================================================================================================>] 9/9

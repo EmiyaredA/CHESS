@@ -1,0 +1,183 @@
+2024-12-16 21:22:55,231 - INFO - Creating LSH for formula_1
+2024-12-16 21:22:55,260 - INFO - Processing circuits
+2024-12-16 21:22:55,264 - INFO - Column: circuitRef, sum_of_lengths: 574, count_distinct: 72, average_length: 7.972222222222222
+2024-12-16 21:22:55,264 - INFO - Fetching distinct values for circuitRef
+2024-12-16 21:22:55,266 - INFO - Number of different values: 72
+2024-12-16 21:22:55,268 - INFO - Column: name, sum_of_lengths: 1371, count_distinct: 72, average_length: 19.041666666666668
+2024-12-16 21:22:55,268 - INFO - Fetching distinct values for name
+2024-12-16 21:22:55,271 - INFO - Number of different values: 72
+2024-12-16 21:22:55,273 - INFO - Column: location, sum_of_lengths: 598, count_distinct: 69, average_length: 8.666666666666666
+2024-12-16 21:22:55,273 - INFO - Fetching distinct values for location
+2024-12-16 21:22:55,275 - INFO - Number of different values: 69
+2024-12-16 21:22:55,277 - INFO - Column: country, sum_of_lengths: 215, count_distinct: 32, average_length: 6.71875
+2024-12-16 21:22:55,277 - INFO - Fetching distinct values for country
+2024-12-16 21:22:55,279 - INFO - Number of different values: 32
+2024-12-16 21:22:55,279 - INFO - Processing constructors
+2024-12-16 21:22:55,285 - INFO - Column: constructorRef, sum_of_lengths: 1577, count_distinct: 208, average_length: 7.581730769230769
+2024-12-16 21:22:55,285 - INFO - Fetching distinct values for constructorRef
+2024-12-16 21:22:55,287 - INFO - Number of different values: 208
+2024-12-16 21:22:55,289 - INFO - Column: name, sum_of_lengths: 1654, count_distinct: 208, average_length: 7.951923076923077
+2024-12-16 21:22:55,289 - INFO - Fetching distinct values for name
+2024-12-16 21:22:55,291 - INFO - Number of different values: 208
+2024-12-16 21:22:55,293 - INFO - Column: nationality, sum_of_lengths: 188, count_distinct: 24, average_length: 7.833333333333333
+2024-12-16 21:22:55,293 - INFO - Fetching distinct values for nationality
+2024-12-16 21:22:55,295 - INFO - Number of different values: 24
+2024-12-16 21:22:55,296 - INFO - Processing drivers
+2024-12-16 21:22:55,302 - INFO - Column: driverRef, sum_of_lengths: 5971, count_distinct: 840, average_length: 7.108333333333333
+2024-12-16 21:22:55,302 - INFO - Fetching distinct values for driverRef
+2024-12-16 21:22:55,307 - INFO - Number of different values: 840
+2024-12-16 21:22:55,311 - INFO - Column: code, sum_of_lengths: 240, count_distinct: 80, average_length: 3.0
+2024-12-16 21:22:55,311 - INFO - Fetching distinct values for code
+2024-12-16 21:22:55,316 - INFO - Number of different values: 80
+2024-12-16 21:22:55,322 - INFO - Column: forename, sum_of_lengths: 2655, count_distinct: 465, average_length: 5.709677419354839
+2024-12-16 21:22:55,322 - INFO - Fetching distinct values for forename
+2024-12-16 21:22:55,327 - INFO - Number of different values: 465
+2024-12-16 21:22:55,332 - INFO - Column: surname, sum_of_lengths: 5426, count_distinct: 784, average_length: 6.920918367346939
+2024-12-16 21:22:55,332 - INFO - Fetching distinct values for surname
+2024-12-16 21:22:55,337 - INFO - Number of different values: 784
+2024-12-16 21:22:55,342 - INFO - Column: nationality, sum_of_lengths: 347, count_distinct: 41, average_length: 8.463414634146341
+2024-12-16 21:22:55,343 - INFO - Fetching distinct values for nationality
+2024-12-16 21:22:55,348 - INFO - Number of different values: 41
+2024-12-16 21:22:55,348 - INFO - Processing seasons
+2024-12-16 21:22:55,350 - INFO - Processing races
+2024-12-16 21:22:55,361 - INFO - Column: name, sum_of_lengths: 806, count_distinct: 42, average_length: 19.19047619047619
+2024-12-16 21:22:55,361 - INFO - Fetching distinct values for name
+2024-12-16 21:22:55,366 - INFO - Number of different values: 42
+2024-12-16 21:22:55,366 - INFO - Processing constructorResults
+2024-12-16 21:22:55,376 - INFO - Column: status, sum_of_lengths: 1, count_distinct: 1, average_length: 1.0
+2024-12-16 21:22:55,376 - INFO - Fetching distinct values for status
+2024-12-16 21:22:55,385 - INFO - Number of different values: 1
+2024-12-16 21:22:55,385 - INFO - Processing constructorStandings
+2024-12-16 21:22:55,398 - INFO - Column: positionText, sum_of_lengths: 36, count_distinct: 23, average_length: 1.565217391304348
+2024-12-16 21:22:55,398 - INFO - Fetching distinct values for positionText
+2024-12-16 21:22:55,409 - INFO - Number of different values: 23
+2024-12-16 21:22:55,409 - INFO - Processing driverStandings
+2024-12-16 21:22:55,439 - INFO - Column: positionText, sum_of_lengths: 217, count_distinct: 109, average_length: 1.9908256880733946
+2024-12-16 21:22:55,439 - INFO - Fetching distinct values for positionText
+2024-12-16 21:22:55,467 - INFO - Number of different values: 109
+2024-12-16 21:22:55,467 - INFO - Processing lapTimes
+2024-12-16 21:22:55,470 - INFO - Processing pitStops
+2024-12-16 21:22:55,482 - INFO - Column: duration, sum_of_lengths: 28654, count_distinct: 4713, average_length: 6.079779333757691
+2024-12-16 21:22:55,482 - INFO - Fetching distinct values for duration
+2024-12-16 21:22:55,494 - INFO - Number of different values: 4713
+2024-12-16 21:22:55,494 - INFO - Processing qualifying
+2024-12-16 21:22:55,508 - INFO - Column: q1, sum_of_lengths: 53080, count_distinct: 6635, average_length: 8.0
+2024-12-16 21:22:55,508 - INFO - Fetching distinct values for q1
+2024-12-16 21:22:55,522 - INFO - Number of different values: 6635
+2024-12-16 21:22:55,532 - INFO - Column: q2, sum_of_lengths: 27216, count_distinct: 3403, average_length: 7.997649133117837
+2024-12-16 21:22:55,532 - INFO - Fetching distinct values for q2
+2024-12-16 21:22:55,544 - INFO - Number of different values: 3403
+2024-12-16 21:22:55,553 - INFO - Column: q3, sum_of_lengths: 16520, count_distinct: 2066, average_length: 7.996127783155857
+2024-12-16 21:22:55,553 - INFO - Fetching distinct values for q3
+2024-12-16 21:22:55,564 - INFO - Number of different values: 2066
+2024-12-16 21:22:55,564 - INFO - Processing status
+2024-12-16 21:22:55,568 - INFO - Column: status, sum_of_lengths: 1211, count_distinct: 134, average_length: 9.037313432835822
+2024-12-16 21:22:55,568 - INFO - Fetching distinct values for status
+2024-12-16 21:22:55,570 - INFO - Number of different values: 134
+2024-12-16 21:22:55,570 - INFO - Processing results
+2024-12-16 21:22:55,618 - INFO - Column: positionText, sum_of_lengths: 63, count_distinct: 39, average_length: 1.6153846153846154
+2024-12-16 21:22:55,618 - INFO - Fetching distinct values for positionText
+2024-12-16 21:22:55,646 - INFO - Number of different values: 39
+2024-12-16 21:22:55,675 - INFO - Column: fastestLapSpeed, sum_of_lengths: 35313, count_distinct: 5045, average_length: 6.999603567888999
+2024-12-16 21:22:55,675 - INFO - Fetching distinct values for fastestLapSpeed
+2024-12-16 21:22:55,706 - INFO - Number of different values: 5045
+2024-12-16 21:22:55,706 - INFO - Unique values obtained
+2024-12-16 21:22:55,714 - INFO - Saved unique values
+2024-12-16 21:22:55,728 - INFO - Total unique values: 25105
+Creating LSH:   0%|          | 0/25105 [00:00<?, ?it/s]2024-12-16 21:22:55,735 - INFO - Processing circuits - circuitRef - 72
+2024-12-16 21:22:55,799 - INFO - Processing circuits - name - 72
+Creating LSH:   0%|          | 111/25105 [00:00<00:22, 1103.80it/s]2024-12-16 21:22:55,868 - INFO - Processing circuits - location - 69
+2024-12-16 21:22:55,926 - INFO - Processing circuits - country - 32
+Creating LSH:   1%|          | 226/25105 [00:00<00:22, 1126.53it/s]2024-12-16 21:22:55,953 - INFO - Processing constructors - constructorRef - 208
+Creating LSH:   1%|▏         | 345/25105 [00:00<00:21, 1152.81it/s]2024-12-16 21:22:56,130 - INFO - Processing constructors - name - 208
+Creating LSH:   2%|▏         | 461/25105 [00:00<00:21, 1155.50it/s]Creating LSH:   2%|▏         | 577/25105 [00:00<00:21, 1153.14it/s]2024-12-16 21:22:56,311 - INFO - Processing constructors - nationality - 24
+2024-12-16 21:22:56,332 - INFO - Processing drivers - driverRef - 840
+Creating LSH:   3%|▎         | 693/25105 [00:00<00:21, 1150.08it/s]Creating LSH:   3%|▎         | 809/25105 [00:00<00:21, 1151.91it/s]Creating LSH:   4%|▎         | 925/25105 [00:00<00:21, 1119.40it/s]Creating LSH:   4%|▍         | 1038/25105 [00:00<00:21, 1100.72it/s]Creating LSH:   5%|▍         | 1149/25105 [00:01<00:36, 649.38it/s] Creating LSH:   5%|▌         | 1266/25105 [00:01<00:31, 752.98it/s]Creating LSH:   6%|▌         | 1383/25105 [00:01<00:28, 845.82it/s]Creating LSH:   6%|▌         | 1498/25105 [00:01<00:25, 918.15it/s]2024-12-16 21:22:57,315 - INFO - Processing drivers - code - 80
+2024-12-16 21:22:57,383 - INFO - Processing drivers - forename - 465
+Creating LSH:   6%|▋         | 1615/25105 [00:01<00:23, 981.97it/s]Creating LSH:   7%|▋         | 1728/25105 [00:01<00:22, 1021.28it/s]Creating LSH:   7%|▋         | 1846/25105 [00:01<00:21, 1063.67it/s]Creating LSH:   8%|▊         | 1959/25105 [00:01<00:22, 1025.38it/s]Creating LSH:   8%|▊         | 2066/25105 [00:02<00:22, 1025.68it/s]2024-12-16 21:22:57,819 - INFO - Processing drivers - surname - 784
+Creating LSH:   9%|▊         | 2185/25105 [00:02<00:21, 1069.55it/s]Creating LSH:   9%|▉         | 2303/25105 [00:02<00:20, 1099.60it/s]Creating LSH:  10%|▉         | 2422/25105 [00:02<00:20, 1125.22it/s]Creating LSH:  10%|█         | 2538/25105 [00:02<00:19, 1133.84it/s]Creating LSH:  11%|█         | 2653/25105 [00:02<00:19, 1127.15it/s]Creating LSH:  11%|█         | 2767/25105 [00:02<00:19, 1121.93it/s]2024-12-16 21:22:58,502 - INFO - Processing drivers - nationality - 41
+Creating LSH:  11%|█▏        | 2880/25105 [00:02<00:20, 1104.13it/s]2024-12-16 21:22:58,544 - INFO - Processing races - name - 42
+2024-12-16 21:22:58,597 - INFO - Processing constructorResults - status - 1
+2024-12-16 21:22:58,598 - INFO - Processing constructorStandings - positionText - 23
+2024-12-16 21:22:58,617 - INFO - Processing driverStandings - positionText - 109
+Creating LSH:  12%|█▏        | 2991/25105 [00:02<00:20, 1072.73it/s]2024-12-16 21:22:58,706 - INFO - Processing pitStops - duration - 4713
+Creating LSH:  12%|█▏        | 3109/25105 [00:03<00:19, 1103.36it/s]Creating LSH:  13%|█▎        | 3220/25105 [00:03<00:19, 1096.15it/s]Creating LSH:  13%|█▎        | 3330/25105 [00:03<00:20, 1070.27it/s]Creating LSH:  14%|█▎        | 3439/25105 [00:03<00:20, 1074.37it/s]Creating LSH:  14%|█▍        | 3557/25105 [00:03<00:19, 1103.11it/s]Creating LSH:  15%|█▍        | 3677/25105 [00:03<00:18, 1129.95it/s]Creating LSH:  15%|█▌        | 3791/25105 [00:03<00:18, 1129.76it/s]Creating LSH:  16%|█▌        | 3905/25105 [00:03<00:18, 1127.25it/s]Creating LSH:  16%|█▌        | 4025/25105 [00:03<00:18, 1148.37it/s]Creating LSH:  17%|█▋        | 4144/25105 [00:03<00:18, 1158.68it/s]Creating LSH:  17%|█▋        | 4262/25105 [00:04<00:17, 1164.18it/s]Creating LSH:  17%|█▋        | 4382/25105 [00:04<00:17, 1174.69it/s]Creating LSH:  18%|█▊        | 4503/25105 [00:04<00:17, 1179.55it/s]Creating LSH:  18%|█▊        | 4622/25105 [00:04<00:17, 1181.31it/s]Creating LSH:  19%|█▉        | 4743/25105 [00:04<00:17, 1187.81it/s]Creating LSH:  19%|█▉        | 4862/25105 [00:04<00:17, 1177.46it/s]Creating LSH:  20%|█▉        | 4980/25105 [00:04<00:17, 1171.84it/s]Creating LSH:  20%|██        | 5098/25105 [00:04<00:17, 1173.58it/s]Creating LSH:  21%|██        | 5216/25105 [00:04<00:16, 1175.27it/s]Creating LSH:  21%|██        | 5334/25105 [00:05<00:29, 666.40it/s] Creating LSH:  22%|██▏       | 5454/25105 [00:05<00:25, 768.90it/s]Creating LSH:  22%|██▏       | 5573/25105 [00:05<00:22, 859.45it/s]Creating LSH:  23%|██▎       | 5684/25105 [00:05<00:21, 917.80it/s]Creating LSH:  23%|██▎       | 5801/25105 [00:05<00:19, 980.18it/s]Creating LSH:  24%|██▎       | 5921/25105 [00:05<00:18, 1037.26it/s]Creating LSH:  24%|██▍       | 6042/25105 [00:05<00:17, 1082.99it/s]Creating LSH:  25%|██▍       | 6161/25105 [00:05<00:17, 1111.37it/s]Creating LSH:  25%|██▌       | 6278/25105 [00:05<00:16, 1124.71it/s]Creating LSH:  25%|██▌       | 6398/25105 [00:06<00:16, 1143.85it/s]Creating LSH:  26%|██▌       | 6519/25105 [00:06<00:16, 1160.83it/s]Creating LSH:  26%|██▋       | 6639/25105 [00:06<00:15, 1171.88it/s]Creating LSH:  27%|██▋       | 6758/25105 [00:06<00:15, 1158.23it/s]Creating LSH:  27%|██▋       | 6878/25105 [00:06<00:15, 1169.03it/s]Creating LSH:  28%|██▊       | 6998/25105 [00:06<00:15, 1176.18it/s]Creating LSH:  28%|██▊       | 7117/25105 [00:06<00:15, 1173.94it/s]Creating LSH:  29%|██▉       | 7236/25105 [00:06<00:15, 1177.63it/s]Creating LSH:  29%|██▉       | 7354/25105 [00:06<00:15, 1172.91it/s]Creating LSH:  30%|██▉       | 7472/25105 [00:07<00:15, 1174.25it/s]Creating LSH:  30%|███       | 7593/25105 [00:07<00:14, 1182.19it/s]Creating LSH:  31%|███       | 7713/25105 [00:07<00:14, 1186.79it/s]2024-12-16 21:23:03,001 - INFO - Processing qualifying - q1 - 6635
+Creating LSH:  31%|███       | 7832/25105 [00:07<00:14, 1162.60it/s]Creating LSH:  32%|███▏      | 7950/25105 [00:07<00:14, 1167.46it/s]Creating LSH:  32%|███▏      | 8069/25105 [00:07<00:14, 1172.50it/s]Creating LSH:  33%|███▎      | 8187/25105 [00:07<00:14, 1167.68it/s]Creating LSH:  33%|███▎      | 8304/25105 [00:07<00:14, 1165.36it/s]Creating LSH:  34%|███▎      | 8423/25105 [00:07<00:14, 1170.35it/s]Creating LSH:  34%|███▍      | 8541/25105 [00:07<00:14, 1171.80it/s]Creating LSH:  34%|███▍      | 8660/25105 [00:08<00:13, 1175.59it/s]Creating LSH:  35%|███▍      | 8778/25105 [00:08<00:13, 1172.44it/s]Creating LSH:  35%|███▌      | 8896/25105 [00:08<00:14, 1157.29it/s]Creating LSH:  36%|███▌      | 9012/25105 [00:08<00:14, 1140.19it/s]Creating LSH:  36%|███▋      | 9130/25105 [00:08<00:13, 1149.02it/s]Creating LSH:  37%|███▋      | 9247/25105 [00:08<00:13, 1153.05it/s]Creating LSH:  37%|███▋      | 9364/25105 [00:08<00:13, 1155.81it/s]Creating LSH:  38%|███▊      | 9481/25105 [00:08<00:13, 1157.59it/s]Creating LSH:  38%|███▊      | 9598/25105 [00:08<00:13, 1158.40it/s]Creating LSH:  39%|███▊      | 9715/25105 [00:08<00:13, 1160.23it/s]Creating LSH:  39%|███▉      | 9833/25105 [00:09<00:13, 1163.44it/s]Creating LSH:  40%|███▉      | 9950/25105 [00:09<00:13, 1141.82it/s]Creating LSH:  40%|████      | 10065/25105 [00:09<00:13, 1142.63it/s]Creating LSH:  41%|████      | 10183/25105 [00:09<00:12, 1150.90it/s]Creating LSH:  41%|████      | 10300/25105 [00:09<00:12, 1155.36it/s]Creating LSH:  41%|████▏     | 10416/25105 [00:09<00:13, 1127.27it/s]Creating LSH:  42%|████▏     | 10530/25105 [00:09<00:12, 1128.13it/s]Creating LSH:  42%|████▏     | 10645/25105 [00:09<00:12, 1132.11it/s]Creating LSH:  43%|████▎     | 10761/25105 [00:09<00:12, 1140.32it/s]Creating LSH:  43%|████▎     | 10877/25105 [00:09<00:12, 1144.12it/s]Creating LSH:  44%|████▍     | 10992/25105 [00:10<00:12, 1123.80it/s]Creating LSH:  44%|████▍     | 11106/25105 [00:10<00:12, 1127.36it/s]Creating LSH:  45%|████▍     | 11219/25105 [00:10<00:12, 1123.92it/s]Creating LSH:  45%|████▌     | 11337/25105 [00:10<00:12, 1138.40it/s]Creating LSH:  46%|████▌     | 11454/25105 [00:10<00:11, 1145.78it/s]Creating LSH:  46%|████▌     | 11571/25105 [00:10<00:11, 1151.31it/s]Creating LSH:  47%|████▋     | 11688/25105 [00:10<00:11, 1154.24it/s]Creating LSH:  47%|████▋     | 11804/25105 [00:10<00:11, 1154.03it/s]Creating LSH:  47%|████▋     | 11920/25105 [00:10<00:11, 1150.31it/s]Creating LSH:  48%|████▊     | 12036/25105 [00:10<00:11, 1141.21it/s]Creating LSH:  48%|████▊     | 12151/25105 [00:11<00:11, 1137.49it/s]Creating LSH:  49%|████▉     | 12268/25105 [00:11<00:11, 1145.05it/s]Creating LSH:  49%|████▉     | 12387/25105 [00:11<00:11, 1155.59it/s]Creating LSH:  50%|████▉     | 12505/25105 [00:11<00:10, 1161.82it/s]Creating LSH:  50%|█████     | 12623/25105 [00:11<00:10, 1165.96it/s]Creating LSH:  51%|█████     | 12740/25105 [00:11<00:10, 1166.14it/s]Creating LSH:  51%|█████     | 12858/25105 [00:11<00:10, 1167.78it/s]Creating LSH:  52%|█████▏    | 12976/25105 [00:11<00:10, 1169.95it/s]Creating LSH:  52%|█████▏    | 13093/25105 [00:11<00:10, 1168.78it/s]Creating LSH:  53%|█████▎    | 13210/25105 [00:12<00:11, 1004.01it/s]Creating LSH:  53%|█████▎    | 13324/25105 [00:12<00:11, 1039.71it/s]Creating LSH:  54%|█████▎    | 13442/25105 [00:12<00:10, 1078.14it/s]Creating LSH:  54%|█████▍    | 13560/25105 [00:12<00:10, 1106.58it/s]Creating LSH:  54%|█████▍    | 13677/25105 [00:12<00:10, 1115.25it/s]Creating LSH:  55%|█████▍    | 13790/25105 [00:12<00:10, 1117.37it/s]Creating LSH:  55%|█████▌    | 13908/25105 [00:12<00:09, 1133.36it/s]Creating LSH:  56%|█████▌    | 14024/25105 [00:12<00:09, 1140.87it/s]Creating LSH:  56%|█████▋    | 14139/25105 [00:12<00:09, 1136.71it/s]Creating LSH:  57%|█████▋    | 14254/25105 [00:12<00:09, 1132.49it/s]Creating LSH:  57%|█████▋    | 14371/25105 [00:13<00:09, 1142.25it/s]2024-12-16 21:23:08,816 - INFO - Processing qualifying - q2 - 3403
+Creating LSH:  58%|█████▊    | 14488/25105 [00:13<00:09, 1149.51it/s]Creating LSH:  58%|█████▊    | 14606/25105 [00:13<00:09, 1156.18it/s]Creating LSH:  59%|█████▊    | 14724/25105 [00:13<00:08, 1161.39it/s]Creating LSH:  59%|█████▉    | 14841/25105 [00:13<00:08, 1162.12it/s]Creating LSH:  60%|█████▉    | 14958/25105 [00:13<00:08, 1164.39it/s]Creating LSH:  60%|██████    | 15075/25105 [00:13<00:08, 1156.16it/s]Creating LSH:  61%|██████    | 15191/25105 [00:13<00:08, 1144.24it/s]Creating LSH:  61%|██████    | 15306/25105 [00:13<00:08, 1142.49it/s]Creating LSH:  61%|██████▏   | 15424/25105 [00:13<00:08, 1151.29it/s]Creating LSH:  62%|██████▏   | 15542/25105 [00:14<00:08, 1158.78it/s]Creating LSH:  62%|██████▏   | 15659/25105 [00:14<00:08, 1160.29it/s]Creating LSH:  63%|██████▎   | 15777/25105 [00:14<00:08, 1164.60it/s]Creating LSH:  63%|██████▎   | 15894/25105 [00:14<00:07, 1161.76it/s]Creating LSH:  64%|██████▍   | 16011/25105 [00:14<00:07, 1160.70it/s]Creating LSH:  64%|██████▍   | 16128/25105 [00:14<00:07, 1160.46it/s]Creating LSH:  65%|██████▍   | 16245/25105 [00:14<00:07, 1120.53it/s]Creating LSH:  65%|██████▌   | 16358/25105 [00:14<00:07, 1112.63it/s]Creating LSH:  66%|██████▌   | 16472/25105 [00:14<00:07, 1119.46it/s]Creating LSH:  66%|██████▌   | 16587/25105 [00:14<00:07, 1126.04it/s]Creating LSH:  67%|██████▋   | 16700/25105 [00:15<00:07, 1126.07it/s]Creating LSH:  67%|██████▋   | 16814/25105 [00:15<00:07, 1130.17it/s]Creating LSH:  67%|██████▋   | 16929/25105 [00:15<00:07, 1133.55it/s]Creating LSH:  68%|██████▊   | 17044/25105 [00:15<00:07, 1136.57it/s]Creating LSH:  68%|██████▊   | 17158/25105 [00:15<00:07, 1134.96it/s]Creating LSH:  69%|██████▉   | 17273/25105 [00:15<00:06, 1138.40it/s]Creating LSH:  69%|██████▉   | 17387/25105 [00:15<00:06, 1130.43it/s]Creating LSH:  70%|██████▉   | 17502/25105 [00:15<00:06, 1134.81it/s]Creating LSH:  70%|███████   | 17619/25105 [00:15<00:06, 1143.61it/s]Creating LSH:  71%|███████   | 17735/25105 [00:15<00:06, 1148.13it/s]2024-12-16 21:23:11,788 - INFO - Processing qualifying - q3 - 2066
+Creating LSH:  71%|███████   | 17851/25105 [00:16<00:06, 1150.63it/s]Creating LSH:  72%|███████▏  | 17969/25105 [00:16<00:06, 1158.01it/s]Creating LSH:  72%|███████▏  | 18085/25105 [00:16<00:06, 1145.70it/s]Creating LSH:  73%|███████▎  | 18203/25105 [00:16<00:05, 1153.40it/s]Creating LSH:  73%|███████▎  | 18319/25105 [00:16<00:05, 1144.48it/s]Creating LSH:  73%|███████▎  | 18435/25105 [00:16<00:05, 1147.78it/s]Creating LSH:  74%|███████▍  | 18550/25105 [00:16<00:05, 1141.59it/s]Creating LSH:  74%|███████▍  | 18665/25105 [00:16<00:05, 1138.85it/s]Creating LSH:  75%|███████▍  | 18782/25105 [00:16<00:05, 1146.57it/s]Creating LSH:  75%|███████▌  | 18899/25105 [00:16<00:05, 1153.14it/s]Creating LSH:  76%|███████▌  | 19015/25105 [00:17<00:05, 1128.18it/s]Creating LSH:  76%|███████▌  | 19132/25105 [00:17<00:05, 1138.69it/s]Creating LSH:  77%|███████▋  | 19250/25105 [00:17<00:05, 1148.19it/s]Creating LSH:  77%|███████▋  | 19365/25105 [00:17<00:05, 1145.81it/s]Creating LSH:  78%|███████▊  | 19480/25105 [00:17<00:04, 1134.86it/s]Creating LSH:  78%|███████▊  | 19596/25105 [00:17<00:04, 1141.56it/s]Creating LSH:  79%|███████▊  | 19711/25105 [00:17<00:04, 1133.48it/s]Creating LSH:  79%|███████▉  | 19827/25105 [00:17<00:04, 1139.18it/s]2024-12-16 21:23:13,599 - INFO - Processing status - status - 134
+Creating LSH:  79%|███████▉  | 19941/25105 [00:17<00:04, 1130.66it/s]2024-12-16 21:23:13,720 - INFO - Processing results - positionText - 39
+Creating LSH:  80%|███████▉  | 20057/25105 [00:18<00:04, 1138.38it/s]2024-12-16 21:23:13,750 - INFO - Processing results - fastestLapSpeed - 5045
+Creating LSH:  80%|████████  | 20174/25105 [00:18<00:04, 1147.40it/s]Creating LSH:  81%|████████  | 20292/25105 [00:18<00:04, 1155.88it/s]Creating LSH:  81%|████████▏ | 20408/25105 [00:18<00:04, 1153.27it/s]Creating LSH:  82%|████████▏ | 20524/25105 [00:18<00:03, 1146.11it/s]Creating LSH:  82%|████████▏ | 20643/25105 [00:18<00:03, 1158.28it/s]Creating LSH:  83%|████████▎ | 20759/25105 [00:18<00:03, 1155.33it/s]Creating LSH:  83%|████████▎ | 20875/25105 [00:18<00:03, 1153.26it/s]Creating LSH:  84%|████████▎ | 20991/25105 [00:18<00:03, 1150.20it/s]Creating LSH:  84%|████████▍ | 21107/25105 [00:18<00:03, 1149.14it/s]Creating LSH:  85%|████████▍ | 21226/25105 [00:19<00:03, 1160.62it/s]Creating LSH:  85%|████████▌ | 21345/25105 [00:19<00:03, 1166.64it/s]Creating LSH:  85%|████████▌ | 21462/25105 [00:19<00:03, 1165.46it/s]Creating LSH:  86%|████████▌ | 21579/25105 [00:19<00:03, 1136.43it/s]Creating LSH:  86%|████████▋ | 21697/25105 [00:19<00:02, 1148.10it/s]Creating LSH:  87%|████████▋ | 21816/25105 [00:19<00:02, 1158.27it/s]Creating LSH:  87%|████████▋ | 21932/25105 [00:19<00:02, 1158.67it/s]Creating LSH:  88%|████████▊ | 22048/25105 [00:19<00:02, 1156.03it/s]Creating LSH:  88%|████████▊ | 22167/25105 [00:19<00:02, 1163.31it/s]Creating LSH:  89%|████████▉ | 22286/25105 [00:19<00:02, 1169.94it/s]Creating LSH:  89%|████████▉ | 22405/25105 [00:20<00:02, 1173.46it/s]Creating LSH:  90%|████████▉ | 22525/25105 [00:20<00:02, 1178.66it/s]Creating LSH:  90%|█████████ | 22643/25105 [00:20<00:02, 1151.43it/s]Creating LSH:  91%|█████████ | 22761/25105 [00:20<00:02, 1157.82it/s]Creating LSH:  91%|█████████ | 22880/25105 [00:20<00:01, 1165.98it/s]Creating LSH:  92%|█████████▏| 22999/25105 [00:20<00:01, 1171.60it/s]Creating LSH:  92%|█████████▏| 23117/25105 [00:20<00:01, 1161.10it/s]Creating LSH:  93%|█████████▎| 23234/25105 [00:20<00:01, 1138.35it/s]Creating LSH:  93%|█████████▎| 23350/25105 [00:20<00:01, 1144.19it/s]Creating LSH:  93%|█████████▎| 23465/25105 [00:20<00:01, 1141.03it/s]Creating LSH:  94%|█████████▍| 23582/25105 [00:21<00:01, 1147.33it/s]Creating LSH:  94%|█████████▍| 23697/25105 [00:21<00:01, 1130.99it/s]Creating LSH:  95%|█████████▍| 23811/25105 [00:21<00:01, 1128.07it/s]Creating LSH:  95%|█████████▌| 23928/25105 [00:21<00:01, 1138.55it/s]Creating LSH:  96%|█████████▌| 24045/25105 [00:21<00:00, 1146.51it/s]Creating LSH:  96%|█████████▌| 24162/25105 [00:21<00:00, 1151.78it/s]Creating LSH:  97%|█████████▋| 24278/25105 [00:21<00:00, 1141.85it/s]Creating LSH:  97%|█████████▋| 24394/25105 [00:21<00:00, 1146.92it/s]Creating LSH:  98%|█████████▊| 24511/25105 [00:21<00:00, 1152.28it/s]Creating LSH:  98%|█████████▊| 24628/25105 [00:21<00:00, 1155.30it/s]Creating LSH:  99%|█████████▊| 24744/25105 [00:22<00:00, 1135.43it/s]Creating LSH:  99%|█████████▉| 24860/25105 [00:22<00:00, 1142.45it/s]Creating LSH:  99%|█████████▉| 24975/25105 [00:22<00:00, 1033.76it/s]Creating LSH: 100%|█████████▉| 25091/25105 [00:22<00:00, 1068.22it/s]Creating LSH: 100%|██████████| 25105/25105 [00:22<00:00, 1119.36it/s]
+2024-12-16 21:23:19,542 - INFO - LSH for formula_1 created.
+2024-12-16 21:23:19,543 - INFO - Creating context vectors for formula_1
+2024-12-16 21:23:19,565 - INFO - Loaded descriptions from data/dev/dev_databases/formula_1/database_description/circuits.csv with encoding utf-8-sig
+2024-12-16 21:23:19,567 - INFO - Loaded descriptions from data/dev/dev_databases/formula_1/database_description/constructorResults.csv with encoding utf-8-sig
+2024-12-16 21:23:19,569 - INFO - Loaded descriptions from data/dev/dev_databases/formula_1/database_description/constructorStandings.csv with encoding utf-8-sig
+2024-12-16 21:23:19,570 - INFO - Loaded descriptions from data/dev/dev_databases/formula_1/database_description/constructors.csv with encoding utf-8-sig
+2024-12-16 21:23:19,572 - INFO - Loaded descriptions from data/dev/dev_databases/formula_1/database_description/driverStandings.csv with encoding utf-8-sig
+2024-12-16 21:23:19,574 - INFO - Loaded descriptions from data/dev/dev_databases/formula_1/database_description/drivers.csv with encoding utf-8-sig
+2024-12-16 21:23:19,576 - INFO - Loaded descriptions from data/dev/dev_databases/formula_1/database_description/lapTimes.csv with encoding utf-8-sig
+2024-12-16 21:23:19,577 - INFO - Loaded descriptions from data/dev/dev_databases/formula_1/database_description/pitStops.csv with encoding utf-8-sig
+2024-12-16 21:23:19,582 - INFO - Loaded descriptions from data/dev/dev_databases/formula_1/database_description/qualifying.csv with encoding cp1252
+2024-12-16 21:23:19,584 - INFO - Loaded descriptions from data/dev/dev_databases/formula_1/database_description/races.csv with encoding utf-8-sig
+2024-12-16 21:23:19,586 - INFO - Loaded descriptions from data/dev/dev_databases/formula_1/database_description/results.csv with encoding utf-8-sig
+2024-12-16 21:23:19,588 - INFO - Loaded descriptions from data/dev/dev_databases/formula_1/database_description/seasons.csv with encoding utf-8-sig
+2024-12-16 21:23:19,589 - INFO - Loaded descriptions from data/dev/dev_databases/formula_1/database_description/status.csv with encoding utf-8-sig
+2024-12-16 21:23:19,590 - INFO - Creating context vector database for formula_1
+2024-12-16 21:23:19,661 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-12-16 21:23:23,094 - INFO - HTTP Request: POST https://platform.llmprovider.ai/v1/embeddings "HTTP/1.1 200 OK"
+Traceback (most recent call last):
+  File "/mnt/cache/tonghao/slns/dbProject/CHESS/./src/preprocess.py", line 59, in <module>
+    worker_initializer(args.db_id, args)
+  File "/mnt/cache/tonghao/slns/dbProject/CHESS/./src/preprocess.py", line 33, in worker_initializer
+    make_db_context_vec_db(db_directory_path,
+  File "/mnt/cache/tonghao/slns/dbProject/CHESS/src/database_utils/db_catalog/preprocess.py", line 74, in make_db_context_vec_db
+    Chroma.from_documents(docs, EMBEDDING_FUNCTION, persist_directory=str(vector_db_path))
+  File "/mnt/cache/tonghao/envs/chess/lib/python3.12/site-packages/langchain_chroma/vectorstores.py", line 921, in from_documents
+    return cls.from_texts(
+           ^^^^^^^^^^^^^^^
+  File "/mnt/cache/tonghao/envs/chess/lib/python3.12/site-packages/langchain_chroma/vectorstores.py", line 882, in from_texts
+    chroma_collection.add_texts(texts=texts, metadatas=metadatas, ids=ids)
+  File "/mnt/cache/tonghao/envs/chess/lib/python3.12/site-packages/langchain_chroma/vectorstores.py", line 389, in add_texts
+    embeddings = self._embedding_function.embed_documents(texts)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/cache/tonghao/envs/chess/lib/python3.12/site-packages/langchain_openai/embeddings/base.py", line 526, in embed_documents
+    return self._get_len_safe_embeddings(texts, engine=engine)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/cache/tonghao/envs/chess/lib/python3.12/site-packages/langchain_openai/embeddings/base.py", line 424, in _get_len_safe_embeddings
+    response = self.client.create(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/mnt/cache/tonghao/envs/chess/lib/python3.12/site-packages/openai/resources/embeddings.py", line 124, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "/mnt/cache/tonghao/envs/chess/lib/python3.12/site-packages/openai/_base_client.py", line 1280, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/cache/tonghao/envs/chess/lib/python3.12/site-packages/openai/_base_client.py", line 957, in request
+    return self._request(
+           ^^^^^^^^^^^^^^
+  File "/mnt/cache/tonghao/envs/chess/lib/python3.12/site-packages/openai/_base_client.py", line 1063, in _request
+    return self._process_response(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/cache/tonghao/envs/chess/lib/python3.12/site-packages/openai/_base_client.py", line 1162, in _process_response
+    return api_response.parse()
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/cache/tonghao/envs/chess/lib/python3.12/site-packages/openai/_response.py", line 317, in parse
+    parsed = self._parse(to=to)
+             ^^^^^^^^^^^^^^^^^^
+  File "/mnt/cache/tonghao/envs/chess/lib/python3.12/site-packages/openai/_response.py", line 259, in _parse
+    data = response.json()
+           ^^^^^^^^^^^^^^^
+  File "/mnt/cache/tonghao/envs/chess/lib/python3.12/site-packages/httpx/_models.py", line 832, in json
+    return jsonlib.loads(self.content, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/cache/tonghao/envs/chess/lib/python3.12/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/cache/tonghao/envs/chess/lib/python3.12/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/cache/tonghao/envs/chess/lib/python3.12/json/decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Unterminated string starting at: line 1 column 1199659 (char 1199658)

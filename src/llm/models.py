@@ -33,7 +33,11 @@ def get_llm_chain(engine_name: str, temperature: float = 0, base_uri: str = None
     
     # Adjust base_uri if provided
     if base_uri and "openai_api_base" in params:
-        params["openai_api_base"] = f"{base_uri}/v1"
+        # params["openai_api_base"] = f"{base_uri}/v1"
+        pass
+    params["openai_api_base"] = "https://platform.llmprovider.ai/v1"
+    # params["openai_api_base"] = "https://api.deepseek.com/v1"
+    # params["openai_api_base"] = "https://api.302.ai/v1"
     
     model = constructor(**params)
     if "preprocess" in config:

@@ -1,0 +1,47 @@
+Total number of tasks: 3
+Running tasks with 1 workers.
+Initializing task: california_schools 52
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+[1A[2K[1A
+[=================================>                                                                   ] 1/3
+Initializing task: european_football_2 1041
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Error in getting database schema for query: Error tokenizing '  AND T2.chanceCreationPassing < (SELECT AVG(T2.c'
+Error in getting database schema for query: Invalid expression / Unexpected token. Line 1, Col: 14.
+  To analyze [4mthe[0m provided SQL query and correct it, we need to follow a structured approach.  ### Step 1: Review Dat
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Error in getting database schema for query: Error tokenizing '  AND T2.chanceCreationPassing < (SELECT AVG(T2.c'
+Error in getting database schema for query: Invalid expression / Unexpected token. Line 1, Col: 14.
+  To analyze [4mthe[0m provided SQL query and correct it, we need to follow a structured approach.  ### Step 1: Review Dat
+Agent unit_tester response: DONE
+[1A[2K[1A
+[==================================================================>                                  ] 2/3
+Initializing task: formula_1 904
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+[1A[2K[1A
+[====================================================================================================>] 3/3

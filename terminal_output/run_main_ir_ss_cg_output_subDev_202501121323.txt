@@ -1,0 +1,2569 @@
+Total number of tasks: 147
+Running tasks with 1 workers.
+Initializing task: california_schools 9
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (california_schools, 9) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 642848 (char 642847)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[>                                                                                                    ] 1/147
+Initializing task: california_schools 21
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (california_schools, 21) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 527474 (char 527473)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+CRITICAL: Error comparing SQL outcomes: no such column: MailCity
+ERROR: Error in compare_sqls: no such column: MailCity
+CRITICAL: Error comparing SQL outcomes: no such column: City
+ERROR: Error in compare_sqls: no such column: City
+[1A[2K[1A
+[=>                                                                                                   ] 2/147
+Initializing task: california_schools 25
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (california_schools, 25) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 115424 (char 115423)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[==>                                                                                                  ] 3/147
+Initializing task: california_schools 35
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (california_schools, 35) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 626366 (char 626365)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+CRITICAL: Error comparing SQL outcomes: no such column: AdmEmail1
+ERROR: Error in compare_sqls: no such column: AdmEmail1
+CRITICAL: Error comparing SQL outcomes: no such column: AdmEmail1
+ERROR: Error in compare_sqls: no such column: AdmEmail1
+[1A[2K[1A
+[==>                                                                                                  ] 4/147
+Initializing task: california_schools 40
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (california_schools, 40) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 239039 (char 239038)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[===>                                                                                                 ] 5/147
+Initializing task: california_schools 43
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (california_schools, 43) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 634607 (char 634606)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[====>                                                                                                ] 6/147
+Initializing task: california_schools 76
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (california_schools, 76) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 618125 (char 618124)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+CRITICAL: Error comparing SQL outcomes: no such column: NSLP Provision Status
+ERROR: Error in compare_sqls: no such column: NSLP Provision Status
+CRITICAL: Error comparing SQL outcomes: no such column: Low Grade
+ERROR: Error in compare_sqls: no such column: Low Grade
+[1A[2K[1A
+[====>                                                                                                ] 7/147
+Initializing task: california_schools 81
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (california_schools, 81) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 733499 (char 733498)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+CRITICAL: Error comparing SQL outcomes: no such column: Low Grade
+ERROR: Error in compare_sqls: no such column: Low Grade
+[1A[2K[1A
+[=====>                                                                                               ] 8/147
+Initializing task: financial 93
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[======>                                                                                              ] 9/147
+Initializing task: financial 97
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (financial, 97) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 445064 (char 445063)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[======>                                                                                              ] 10/147
+Initializing task: financial 98
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (financial, 98) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 214316 (char 214315)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[=======>                                                                                             ] 11/147
+Initializing task: financial 111
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (financial, 111) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 197834 (char 197833)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[========>                                                                                            ] 12/147
+Initializing task: financial 130
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (financial, 130) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 387377 (char 387376)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[========>                                                                                            ] 13/147
+Initializing task: financial 139
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[=========>                                                                                           ] 14/147
+Initializing task: financial 158
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (financial, 158) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 272003 (char 272002)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+CRITICAL: Error comparing SQL outcomes: near "order": syntax error
+ERROR: Error in compare_sqls: near "order": syntax error
+[1A[2K[1A
+[==========>                                                                                          ] 15/147
+Initializing task: financial 164
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (financial, 164) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 263762 (char 263761)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+CRITICAL: Error comparing SQL outcomes: no such column: T2.client_id
+ERROR: Error in compare_sqls: no such column: T2.client_id
+[1A[2K[1A
+[==========>                                                                                          ] 16/147
+Initializing task: financial 176
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[===========>                                                                                         ] 17/147
+Initializing task: financial 189
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[============>                                                                                        ] 18/147
+Initializing task: toxicology 231
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[============>                                                                                        ] 19/147
+Initializing task: toxicology 240
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[=============>                                                                                       ] 20/147
+Initializing task: toxicology 257
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[==============>                                                                                      ] 21/147
+Initializing task: toxicology 267
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[==============>                                                                                      ] 22/147
+Initializing task: toxicology 286
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[===============>                                                                                     ] 23/147
+Initializing task: toxicology 287
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[================>                                                                                    ] 24/147
+Initializing task: toxicology 288
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[=================>                                                                                   ] 25/147
+Initializing task: toxicology 291
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[=================>                                                                                   ] 26/147
+Initializing task: toxicology 303
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[==================>                                                                                  ] 27/147
+Initializing task: toxicology 307
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[===================>                                                                                 ] 28/147
+Initializing task: toxicology 309
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[===================>                                                                                 ] 29/147
+Initializing task: toxicology 326
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[====================>                                                                                ] 30/147
+Initializing task: toxicology 337
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[=====================>                                                                               ] 31/147
+Initializing task: toxicology 338
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[=====================>                                                                               ] 32/147
+Initializing task: card_games 347
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (card_games, 347) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 494510 (char 494509)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[======================>                                                                              ] 33/147
+Initializing task: card_games 350
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (card_games, 350) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 733499 (char 733498)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[=======================>                                                                             ] 34/147
+Initializing task: card_games 353
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (card_games, 353) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 272003 (char 272002)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[=======================>                                                                             ] 35/147
+Initializing task: card_games 362
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (card_games, 362) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 667571 (char 667570)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[========================>                                                                            ] 36/147
+Initializing task: card_games 387
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (card_games, 387) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 708776 (char 708775)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+CRITICAL: Error comparing SQL outcomes: no such column: T2.setCode
+ERROR: Error in compare_sqls: no such column: T2.setCode
+[1A[2K[1A
+[=========================>                                                                           ] 37/147
+Initializing task: card_games 402
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (card_games, 402) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 296726 (char 296725)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+CRITICAL: Error comparing SQL outcomes: no such column: isStorylight
+ERROR: Error in compare_sqls: no such column: isStorylight
+[1A[2K[1A
+[=========================>                                                                           ] 38/147
+Initializing task: card_games 419
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (card_games, 419) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 313208 (char 313207)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[==========================>                                                                          ] 39/147
+Initializing task: card_games 423
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (card_games, 423) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 824150 (char 824149)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[===========================>                                                                         ] 40/147
+Initializing task: card_games 436
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (card_games, 436) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 272003 (char 272002)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[===========================>                                                                         ] 41/147
+Initializing task: card_games 448
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (card_games, 448) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 502751 (char 502750)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[============================>                                                                        ] 42/147
+Initializing task: card_games 470
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (card_games, 470) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 436823 (char 436822)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[=============================>                                                                       ] 43/147
+Initializing task: card_games 479
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (card_games, 479) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 626366 (char 626365)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[=============================>                                                                       ] 44/147
+Initializing task: card_games 483
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (card_games, 483) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 370895 (char 370894)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[==============================>                                                                      ] 45/147
+Initializing task: card_games 484
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (card_games, 484) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 568679 (char 568678)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[===============================>                                                                     ] 46/147
+Initializing task: card_games 489
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (card_games, 489) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 667571 (char 667570)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[===============================>                                                                     ] 47/147
+Initializing task: card_games 510
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (card_games, 510) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 313208 (char 313207)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[================================>                                                                    ] 48/147
+Initializing task: card_games 515
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (card_games, 515) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 568679 (char 568678)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[=================================>                                                                   ] 49/147
+Initializing task: card_games 520
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (card_games, 520) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 387377 (char 387376)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[==================================>                                                                  ] 50/147
+Initializing task: card_games 529
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (card_games, 529) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 362654 (char 362653)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[==================================>                                                                  ] 51/147
+Initializing task: codebase_community 538
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (codebase_community, 538) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 428582 (char 428581)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[===================================>                                                                 ] 52/147
+Initializing task: codebase_community 541
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[====================================>                                                                ] 53/147
+Initializing task: codebase_community 549
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (codebase_community, 549) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 997232 (char 997231)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[====================================>                                                                ] 54/147
+Initializing task: codebase_community 575
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (codebase_community, 575) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 502751 (char 502750)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[=====================================>                                                               ] 55/147
+Initializing task: codebase_community 586
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (codebase_community, 586) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 337931 (char 337930)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[======================================>                                                              ] 56/147
+Initializing task: codebase_community 591
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (codebase_community, 591) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 527474 (char 527473)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[======================================>                                                              ] 57/147
+Initializing task: codebase_community 593
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (codebase_community, 593) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 585161 (char 585160)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[=======================================>                                                             ] 58/147
+Initializing task: codebase_community 600
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[========================================>                                                            ] 59/147
+Initializing task: codebase_community 613
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (codebase_community, 613) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 535715 (char 535714)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[========================================>                                                            ] 60/147
+Initializing task: codebase_community 617
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (codebase_community, 617) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 57740 (char 57739)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+CRITICAL: Error comparing SQL outcomes: no such column: T2.CreationDate
+ERROR: Error in compare_sqls: no such column: T2.CreationDate
+[1A[2K[1A
+[=========================================>                                                           ] 61/147
+Initializing task: codebase_community 619
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[==========================================>                                                          ] 62/147
+Initializing task: codebase_community 623
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (codebase_community, 623) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 395618 (char 395617)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[==========================================>                                                          ] 63/147
+Initializing task: codebase_community 625
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (codebase_community, 625) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 436823 (char 436822)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[===========================================>                                                         ] 64/147
+Initializing task: codebase_community 631
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (codebase_community, 631) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 502751 (char 502750)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[============================================>                                                        ] 65/147
+Initializing task: codebase_community 653
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (codebase_community, 653) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 346172 (char 346171)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[============================================>                                                        ] 66/147
+Initializing task: codebase_community 656
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (codebase_community, 656) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 428582 (char 428581)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[=============================================>                                                       ] 67/147
+Initializing task: codebase_community 657
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (codebase_community, 657) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 263762 (char 263761)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[==============================================>                                                      ] 68/147
+Initializing task: codebase_community 690
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (codebase_community, 690) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 395618 (char 395617)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+WARNING: Comparison timed out.
+[1A[2K[1A
+[==============================================>                                                      ] 69/147
+Initializing task: superhero 720
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (superhero, 720) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 675812 (char 675811)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[===============================================>                                                     ] 70/147
+Initializing task: superhero 726
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (superhero, 726) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 313208 (char 313207)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[================================================>                                                    ] 71/147
+Initializing task: superhero 729
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (superhero, 729) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 57740 (char 57739)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[================================================>                                                    ] 72/147
+Initializing task: superhero 732
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[=================================================>                                                   ] 73/147
+Initializing task: superhero 734
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (superhero, 734) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 197834 (char 197833)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[==================================================>                                                  ] 74/147
+Initializing task: superhero 758
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (superhero, 758) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 461546 (char 461545)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[===================================================>                                                 ] 75/147
+Initializing task: superhero 760
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (superhero, 760) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 428582 (char 428581)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[===================================================>                                                 ] 76/147
+Initializing task: superhero 766
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (superhero, 766) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 552197 (char 552196)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+CRITICAL: Error comparing SQL outcomes: no such column: T3.full_name
+ERROR: Error in compare_sqls: no such column: T3.full_name
+[1A[2K[1A
+[====================================================>                                                ] 77/147
+Initializing task: superhero 772
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (superhero, 772) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 651089 (char 651088)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[=====================================================>                                               ] 78/147
+Initializing task: superhero 778
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (superhero, 778) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 370895 (char 370894)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[=====================================================>                                               ] 79/147
+Initializing task: superhero 797
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (superhero, 797) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 403859 (char 403858)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[======================================================>                                              ] 80/147
+Initializing task: superhero 812
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (superhero, 812) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 107183 (char 107182)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[=======================================================>                                             ] 81/147
+Initializing task: formula_1 847
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (formula_1, 847) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 749981 (char 749980)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[=======================================================>                                             ] 82/147
+Initializing task: formula_1 857
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (formula_1, 857) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 593402 (char 593401)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[========================================================>                                            ] 83/147
+Initializing task: formula_1 860
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (formula_1, 860) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 362654 (char 362653)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[=========================================================>                                           ] 84/147
+Initializing task: formula_1 864
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (formula_1, 864) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 593402 (char 593401)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[=========================================================>                                           ] 85/147
+Initializing task: formula_1 882
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (formula_1, 882) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 321449 (char 321448)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[==========================================================>                                          ] 86/147
+Initializing task: formula_1 896
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (formula_1, 896) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 651089 (char 651088)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[===========================================================>                                         ] 87/147
+Initializing task: formula_1 929
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (formula_1, 929) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 313208 (char 313207)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[===========================================================>                                         ] 88/147
+Initializing task: formula_1 937
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (formula_1, 937) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 123665 (char 123664)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[============================================================>                                        ] 89/147
+Initializing task: formula_1 939
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (formula_1, 939) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 387377 (char 387376)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[=============================================================>                                       ] 90/147
+Initializing task: formula_1 944
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (formula_1, 944) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 395618 (char 395617)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[=============================================================>                                       ] 91/147
+Initializing task: formula_1 956
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (formula_1, 956) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 354413 (char 354412)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[==============================================================>                                      ] 92/147
+Initializing task: formula_1 971
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (formula_1, 971) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 255521 (char 255520)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[===============================================================>                                     ] 93/147
+Initializing task: formula_1 972
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (formula_1, 972) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 428582 (char 428581)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[===============================================================>                                     ] 94/147
+Initializing task: formula_1 996
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (formula_1, 996) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 313208 (char 313207)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[================================================================>                                    ] 95/147
+Initializing task: formula_1 997
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (formula_1, 997) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 453305 (char 453304)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[=================================================================>                                   ] 96/147
+Initializing task: formula_1 1003
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (formula_1, 1003) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 758222 (char 758221)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[=================================================================>                                   ] 97/147
+Initializing task: formula_1 1013
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (formula_1, 1013) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 445064 (char 445063)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[==================================================================>                                  ] 98/147
+Initializing task: european_football_2 1032
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (european_football_2, 1032) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 519233 (char 519232)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[===================================================================>                                 ] 99/147
+Initializing task: european_football_2 1035
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (european_football_2, 1035) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Expecting ',' delimiter: line 1 column 1112572 (char 1112571)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[====================================================================>                                ] 100/147
+Initializing task: european_football_2 1036
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (european_football_2, 1036) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 791186 (char 791185)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[====================================================================>                                ] 101/147
+Initializing task: european_football_2 1040
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (european_football_2, 1040) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 1442300 (char 1442299)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[=====================================================================>                               ] 102/147
+Initializing task: european_football_2 1047
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (european_football_2, 1047) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 1590656 (char 1590655)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[======================================================================>                              ] 103/147
+Initializing task: european_football_2 1063
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (european_football_2, 1063) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 733499 (char 733498)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[======================================================================>                              ] 104/147
+Initializing task: european_football_2 1082
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (european_football_2, 1082) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 914812 (char 914811)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[=======================================================================>                             ] 105/147
+Initializing task: european_football_2 1085
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (european_football_2, 1085) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 263762 (char 263761)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[========================================================================>                            ] 106/147
+Initializing task: european_football_2 1087
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (european_football_2, 1087) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 857118 (char 857117)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[========================================================================>                            ] 107/147
+Initializing task: european_football_2 1098
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (european_football_2, 1098) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 560438 (char 560437)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[=========================================================================>                           ] 108/147
+Initializing task: european_football_2 1104
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (european_football_2, 1104) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 74220 (char 74219)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[==========================================================================>                          ] 109/147
+Initializing task: european_football_2 1124
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (european_football_2, 1124) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 222557 (char 222556)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[==========================================================================>                          ] 110/147
+Initializing task: thrombosis_prediction 1158
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (thrombosis_prediction, 1158) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 502751 (char 502750)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+CRITICAL: Error comparing SQL outcomes: no such function: YEAR
+ERROR: Error in compare_sqls: no such function: YEAR
+[1A[2K[1A
+[===========================================================================>                         ] 111/147
+Initializing task: thrombosis_prediction 1161
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[============================================================================>                        ] 112/147
+Initializing task: thrombosis_prediction 1182
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (thrombosis_prediction, 1182) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 280244 (char 280243)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+CRITICAL: Error comparing SQL outcomes: near "Date": syntax error
+ERROR: Error in compare_sqls: near "Date": syntax error
+[1A[2K[1A
+[============================================================================>                        ] 113/147
+Initializing task: thrombosis_prediction 1195
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (thrombosis_prediction, 1195) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 436823 (char 436822)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[=============================================================================>                       ] 114/147
+Initializing task: thrombosis_prediction 1201
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (thrombosis_prediction, 1201) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 337931 (char 337930)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+CRITICAL: Error comparing SQL outcomes: no such function: YEAR
+ERROR: Error in compare_sqls: no such function: YEAR
+[1A[2K[1A
+[==============================================================================>                      ] 115/147
+Initializing task: thrombosis_prediction 1213
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (thrombosis_prediction, 1213) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 453305 (char 453304)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[==============================================================================>                      ] 116/147
+Initializing task: thrombosis_prediction 1217
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[===============================================================================>                     ] 117/147
+Initializing task: thrombosis_prediction 1224
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (thrombosis_prediction, 1224) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 173111 (char 173110)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[================================================================================>                    ] 118/147
+Initializing task: thrombosis_prediction 1247
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (thrombosis_prediction, 1247) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 502751 (char 502750)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[================================================================================>                    ] 119/147
+Initializing task: thrombosis_prediction 1249
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (thrombosis_prediction, 1249) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 527474 (char 527473)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[=================================================================================>                   ] 120/147
+Initializing task: thrombosis_prediction 1266
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (thrombosis_prediction, 1266) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 304967 (char 304966)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[==================================================================================>                  ] 121/147
+Initializing task: thrombosis_prediction 1268
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[==================================================================================>                  ] 122/147
+Initializing task: thrombosis_prediction 1272
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (thrombosis_prediction, 1272) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 263762 (char 263761)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+CRITICAL: Error comparing SQL outcomes: no such column: SSA
+ERROR: Error in compare_sqls: no such column: SSA
+CRITICAL: Error comparing SQL outcomes: no such column: E.SSA
+ERROR: Error in compare_sqls: no such column: E.SSA
+[1A[2K[1A
+[===================================================================================>                 ] 123/147
+Initializing task: thrombosis_prediction 1278
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (thrombosis_prediction, 1278) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 568679 (char 568678)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+CRITICAL: Error comparing SQL outcomes: no such column: T2.DNA
+ERROR: Error in compare_sqls: no such column: T2.DNA
+CRITICAL: Error comparing SQL outcomes: no such column: T2.DNA-II
+ERROR: Error in compare_sqls: no such column: T2.DNA-II
+[1A[2K[1A
+[====================================================================================>                ] 124/147
+Initializing task: thrombosis_prediction 1291
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (thrombosis_prediction, 1291) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 288485 (char 288484)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[=====================================================================================>               ] 125/147
+Initializing task: thrombosis_prediction 1293
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (thrombosis_prediction, 1293) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 502751 (char 502750)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[=====================================================================================>               ] 126/147
+Initializing task: student_club 1319
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (student_club, 1319) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 436823 (char 436822)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[======================================================================================>              ] 127/147
+Initializing task: student_club 1343
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[=======================================================================================>             ] 128/147
+Initializing task: student_club 1349
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (student_club, 1349) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 272003 (char 272002)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[=======================================================================================>             ] 129/147
+Initializing task: student_club 1366
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (student_club, 1366) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 519233 (char 519232)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[========================================================================================>            ] 130/147
+Initializing task: student_club 1368
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (student_club, 1368) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 255521 (char 255520)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[=========================================================================================>           ] 131/147
+Initializing task: student_club 1393
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (student_club, 1393) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 337931 (char 337930)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[=========================================================================================>           ] 132/147
+Initializing task: student_club 1411
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[==========================================================================================>          ] 133/147
+Initializing task: student_club 1415
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (student_club, 1415) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 230798 (char 230797)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[===========================================================================================>         ] 134/147
+Initializing task: student_club 1430
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (student_club, 1430) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 865360 (char 865359)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[===========================================================================================>         ] 135/147
+Initializing task: student_club 1438
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[============================================================================================>        ] 136/147
+Initializing task: student_club 1447
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (student_club, 1447) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 304967 (char 304966)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[=============================================================================================>       ] 137/147
+Initializing task: student_club 1453
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (student_club, 1453) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 1203282 (char 1203281)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+CRITICAL: Error comparing SQL outcomes: no such column: T2.category
+ERROR: Error in compare_sqls: no such column: T2.category
+CRITICAL: Error comparing SQL outcomes: no such column: T2.category
+ERROR: Error in compare_sqls: no such column: T2.category
+[1A[2K[1A
+[=============================================================================================>       ] 138/147
+Initializing task: student_club 1454
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+CRITICAL: Error comparing SQL outcomes: no such column: T1.link_to_event
+ERROR: Error in compare_sqls: no such column: T1.link_to_event
+[1A[2K[1A
+[==============================================================================================>      ] 139/147
+Initializing task: student_club 1466
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (student_club, 1466) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 585161 (char 585160)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[===============================================================================================>     ] 140/147
+Initializing task: student_club 1467
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (student_club, 1467) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 362654 (char 362653)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[===============================================================================================>     ] 141/147
+Initializing task: debit_card_specializing 1472
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[================================================================================================>    ] 142/147
+Initializing task: debit_card_specializing 1479
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (debit_card_specializing, 1479) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 354413 (char 354412)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[=================================================================================================>   ] 143/147
+Initializing task: debit_card_specializing 1485
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[=================================================================================================>   ] 144/147
+Initializing task: debit_card_specializing 1511
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (debit_card_specializing, 1511) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 296726 (char 296725)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[==================================================================================================>  ] 145/147
+Initializing task: debit_card_specializing 1527
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (debit_card_specializing, 1527) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 313208 (char 313207)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[===================================================================================================> ] 146/147
+Initializing task: debit_card_specializing 1533
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+ERROR: (debit_card_specializing, 1533) Tool 'retrieve_entity'
+<class 'json.decoder.JSONDecodeError'>: Unterminated string starting at: line 1 column 387377 (char 387376)
+
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent schema_selector response: <tool_call>filter_column</tool_call>
+Agent schema_selector response: <tool_call>select_tables</tool_call>
+Agent schema_selector response: <tool_call>select_columns</tool_call>
+Agent schema_selector response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+[1A[2K[1A
+[====================================================================================================>] 147/147

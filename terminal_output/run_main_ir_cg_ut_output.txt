@@ -1,0 +1,587 @@
+Total number of tasks: 42
+Running tasks with 1 workers.
+Initializing task: california_schools 37
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+[1A[2K[1A
+[==>                                                                                                  ] 1/42
+Initializing task: california_schools 68
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+CRITICAL: Error comparing SQL outcomes: no such column: T2.County Name
+ERROR: Error in compare_sqls: no such column: T2.County Name
+CRITICAL: Error comparing SQL outcomes: no such column: T1.ClosedDate
+ERROR: Error in compare_sqls: no such column: T1.ClosedDate
+[1A[2K[1A
+[====>                                                                                                ] 2/42
+Initializing task: california_schools 80
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+CRITICAL: Error comparing SQL outcomes: no such column: School Type
+ERROR: Error in compare_sqls: no such column: School Type
+[1A[2K[1A
+[=======>                                                                                             ] 3/42
+Initializing task: california_schools 81
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+WARNING: OutputParserException: Error parsing test case generation: invalid syntax. Perhaps you forgot a comma? (<unknown>, line 5)
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+CRITICAL: Error comparing SQL outcomes: no such column: Low Grade
+ERROR: Error in compare_sqls: no such column: Low Grade
+CRITICAL: Error comparing SQL outcomes: no such column: Low Grade
+ERROR: Error in compare_sqls: no such column: Low Grade
+[1A[2K[1A
+[=========>                                                                                           ] 4/42
+Initializing task: california_schools 82
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+[1A[2K[1A
+[===========>                                                                                         ] 5/42
+Initializing task: financial 101
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+[1A[2K[1A
+[==============>                                                                                      ] 6/42
+Initializing task: financial 189
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+[1A[2K[1A
+[================>                                                                                    ] 7/42
+Initializing task: toxicology 244
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+[1A[2K[1A
+[===================>                                                                                 ] 8/42
+Initializing task: toxicology 250
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+<unknown>:8: SyntaxWarning: invalid escape sequence '\='
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+[1A[2K[1A
+[=====================>                                                                               ] 9/42
+Initializing task: card_games 342
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+[1A[2K[1A
+[=======================>                                                                             ] 10/42
+Initializing task: card_games 432
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+[1A[2K[1A
+[==========================>                                                                          ] 11/42
+Initializing task: card_games 476
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+[1A[2K[1A
+[============================>                                                                        ] 12/42
+Initializing task: card_games 484
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+[1A[2K[1A
+[==============================>                                                                      ] 13/42
+Initializing task: card_games 515
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+[1A[2K[1A
+[=================================>                                                                   ] 14/42
+Initializing task: codebase_community 610
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+WARNING: Comparison timed out.
+[1A[2K[1A
+[===================================>                                                                 ] 15/42
+Initializing task: codebase_community 621
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+CRITICAL: Error comparing SQL outcomes: no such column: T1.UserId
+ERROR: Error in compare_sqls: no such column: T1.UserId
+[1A[2K[1A
+[======================================>                                                              ] 16/42
+Initializing task: codebase_community 694
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+CRITICAL: Error comparing SQL outcomes: no such column: T3.UserDisplayName
+ERROR: Error in compare_sqls: no such column: T3.UserDisplayName
+[1A[2K[1A
+[========================================>                                                            ] 17/42
+Initializing task: superhero 736
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+[1A[2K[1A
+[==========================================>                                                          ] 18/42
+Initializing task: superhero 766
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+[1A[2K[1A
+[=============================================>                                                       ] 19/42
+Initializing task: superhero 769
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+[1A[2K[1A
+[===============================================>                                                     ] 20/42
+Initializing task: superhero 802
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+[1A[2K[1A
+[==================================================>                                                  ] 21/42
+Initializing task: superhero 810
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+WARNING: OutputParserException: Error parsing test case generation: unterminated string literal (detected at line 21) (<unknown>, line 21)
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+[1A[2K[1A
+[====================================================>                                                ] 22/42
+Initializing task: superhero 828
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+[1A[2K[1A
+[======================================================>                                              ] 23/42
+Initializing task: superhero 832
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+[1A[2K[1A
+[=========================================================>                                           ] 24/42
+Initializing task: formula_1 847
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+[1A[2K[1A
+[===========================================================>                                         ] 25/42
+Initializing task: formula_1 906
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+WARNING: OutputParserException: Error parsing test case generation: unterminated string literal (detected at line 13) (<unknown>, line 13)
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+CRITICAL: Error comparing SQL outcomes: no such column: T1.name
+ERROR: Error in compare_sqls: no such column: T1.name
+CRITICAL: Error comparing SQL outcomes: no such column: T2.driverId
+ERROR: Error in compare_sqls: no such column: T2.driverId
+[1A[2K[1A
+[=============================================================>                                       ] 26/42
+Initializing task: formula_1 908
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+CRITICAL: Error comparing SQL outcomes: no such column: T1.year
+ERROR: Error in compare_sqls: no such column: T1.year
+[1A[2K[1A
+[================================================================>                                    ] 27/42
+Initializing task: european_football_2 1020
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+[1A[2K[1A
+[==================================================================>                                  ] 28/42
+Initializing task: european_football_2 1022
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+[1A[2K[1A
+[=====================================================================>                               ] 29/42
+Initializing task: european_football_2 1026
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+[1A[2K[1A
+[=======================================================================>                             ] 30/42
+Initializing task: european_football_2 1028
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+[1A[2K[1A
+[=========================================================================>                           ] 31/42
+Initializing task: european_football_2 1034
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+[1A[2K[1A
+[============================================================================>                        ] 32/42
+Initializing task: european_football_2 1090
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+[1A[2K[1A
+[==============================================================================>                      ] 33/42
+Initializing task: european_football_2 1123
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+[1A[2K[1A
+[================================================================================>                    ] 34/42
+Initializing task: thrombosis_prediction 1253
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+WARNING: OutputParserException: Error parsing test case generation: unterminated string literal (detected at line 9) (<unknown>, line 9)
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+[1A[2K[1A
+[===================================================================================>                 ] 35/42
+Initializing task: thrombosis_prediction 1284
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+[1A[2K[1A
+[=====================================================================================>               ] 36/42
+Initializing task: thrombosis_prediction 1290
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+[1A[2K[1A
+[========================================================================================>            ] 37/42
+Initializing task: student_club 1318
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+[1A[2K[1A
+[==========================================================================================>          ] 38/42
+Initializing task: student_club 1365
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+[1A[2K[1A
+[============================================================================================>        ] 39/42
+Initializing task: student_club 1388
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+[1A[2K[1A
+[===============================================================================================>     ] 40/42
+Initializing task: student_club 1389
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+[1A[2K[1A
+[=================================================================================================>   ] 41/42
+Initializing task: debit_card_specializing 1517
+Agent Information Retriever response: <tool_call>extract_keywords</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_entity</tool_call>
+Agent Information Retriever response: <tool_call>retrieve_context</tool_call>
+Agent Information Retriever response: DONE
+Agent Candidate Generator response: <tool_call>generate_candidate</tool_call>
+Agent Candidate Generator response: <tool_call>revise</tool_call>
+Error in Checker while getting response: max_workers must be greater than 0
+Agent Candidate Generator response: DONE
+Agent unit_tester response: <tool_call>generate_unit_test</tool_call>
+Agent unit_tester response: <tool_call>evaluate</tool_call>
+Agent unit_tester response: DONE
+[1A[2K[1A
+[====================================================================================================>] 42/42

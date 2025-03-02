@@ -36,6 +36,10 @@ Each configuration includes a constructor, parameters, and an optional preproces
 """
 
 ENGINE_CONFIGS: Dict[str, Dict[str, Any]] = {
+    "deepseek-chat": {
+        "constructor": ChatOpenAI,
+        "params": {"model": "deepseek-chat", "temperature": 0}
+    },
     "gemini-pro": {
         "constructor": ChatGoogleGenerativeAI,
         "params": {"model": "gemini-pro", "temperature": 0},
