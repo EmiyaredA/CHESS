@@ -35,12 +35,9 @@ class RetrieveEntity(Tool):
             # model="text-embedding-3-large"
             model="text-embedding-3-small",
             # openai_api_base="https://platform.llmprovider.ai/v1",
-            # openai_api_key="sk-hnbrDSrB1j6fSoz2qTHoQPafFrdrYaIkzFDftIAB306b2b0231314e09AbB9851a1e97A6Ef",
+            # openai_api_key="sk-xxx",  
             # openai_api_base="https://aihubmix.com/v1",
-            # openai_api_key="sk-4PQ5jkDe87X6IE7dD310Bd9774E14b0dAb9e908b0113936f"
-            # openai_api_key="sk-aZ9Lcou2MX1PDvzrC62f7dBd3d034fB7854f37721069Ee04"
             openai_api_base="https://api.302.ai/v1",
-            openai_api_key="sk-pgWdfaXyTPx2KlDd0ui7vhhtxC1zDjgEWbXQanlv5mO26bgF"
             # request_timeout=600.0
         )
         self.edit_distance_threshold = 0.3
