@@ -2,6 +2,7 @@ from workflow.agents.agent import Agent
 from workflow.system_state import SystemState
 
 from workflow.agents.information_retriever.tool_kit.extract_keywords import ExtractKeywords
+from workflow.agents.information_retriever.tool_kit.extract_entity_relation import ExtractEntityRelation
 from workflow.agents.information_retriever.tool_kit.retrieve_entity import RetrieveEntity
 from workflow.agents.information_retriever.tool_kit.retrieve_context import RetrieveContext
 
@@ -22,6 +23,7 @@ class InformationRetriever(Agent):
         
         self.tools = {
             "extract_keywords": ExtractKeywords(**config["tools"]["extract_keywords"]),
+            "extract_entity_relation": ExtractEntityRelation(**config["tools"]["extract_entity_relation"]),
             "retrieve_entity": RetrieveEntity(**config["tools"]["retrieve_entity"]),
             "retrieve_context": RetrieveContext(**config["tools"]["retrieve_context"])
         }

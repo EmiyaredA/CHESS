@@ -24,6 +24,7 @@ class SystemState(BaseModel):
     execution_history: List[Any]
     
     keywords: List[str] = []
+    entity_relation: Dict[str, List[str]] = {}
     
     similar_columns: Dict[str, List[str]] = {}
     schema_with_examples: Dict[str, Dict[str, List[str]]] = {}

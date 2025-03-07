@@ -40,6 +40,14 @@ ENGINE_CONFIGS: Dict[str, Dict[str, Any]] = {
         "constructor": ChatOpenAI,
         "params": {"model": "deepseek-chat", "temperature": 0}
     },
+    "deepseek-v3-huoshan": {
+        "constructor": ChatOpenAI,
+        "params": {"model": "deepseek-v3-huoshan", "temperature": 0}
+    },
+    "deepseek-r1-huoshan": {
+        "constructor": ChatOpenAI,
+        "params": {"model": "deepseek-r1-huoshan", "temperature": 0}
+    },
     "gemini-pro": {
         "constructor": ChatGoogleGenerativeAI,
         "params": {"model": "gemini-pro", "temperature": 0},

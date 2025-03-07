@@ -276,6 +276,7 @@ def get_parser(parser_name: str) -> BaseOutputParser:
     """
     parser_configs = {
         "python_list_output_parser": PythonListOutputParser,
+        "extract_entity_relation": lambda: JsonOutputParser(pydantic_object=FilterColumnOutput),
         "filter_column": lambda: JsonOutputParser(pydantic_object=FilterColumnOutput),
         "select_tables": lambda: JsonOutputParser(pydantic_object=SelectTablesOutputParser),
         "select_columns": lambda: JsonOutputParser(pydantic_object=ColumnSelectionOutput),
